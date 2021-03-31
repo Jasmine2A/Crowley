@@ -1,0 +1,88 @@
+                                                                                                                                                                                      Sent By:
+                                                                            CROWLEY LOGISTICS, INC.                                                                                Ryan Malloy
+                                                                              US Transportation and Distribution
+                                                                                                                                                                       Ryan.Malloy@crowley.com
+                                                                       9487 Regency Square Blvd, Jacksonville, FL 32225
+                                                                                                                                                                            11/03/2020 10:46 AM
+                                                                                Order Number 2897521                                                      Division:                CDTS
+ LOAD RATE CONFIRMATION                                                         Trip Number 4309299
+                                  Please call 310-732-6550 for dispatch and reference order number 2897521.
+Carrier:                      TEMP                                                                          Truck Pay Total:                      $1,934.00
+Booking:                      808210080                                                                     Line Haul Rate:                        $1,934.00
+Voyage:                                                                                                     Fuel Surcharge:                            $0.00
+                                                                                                            Accessorial(s):                            $0.00
+                                                                                 Payment Processing:
+Equipment Type:               53AIR
+                                                                                 PLEASE DO NOT SUBMIT INVOICES FOR PAYMENT
+Weight:                       5000                                              Payments will be automatically processed via ERS based on Truck Pay Total (see above), standard/negotiated payment
+Pieces/Pallets:               2.00                                              terms, and receipt and processing of documentation requirements.
+                                                                                -Once Trip Segment is closed, payment terms (e.g., Net 30 day) will start from the date required documentation is
+Commodity:                    U-Box                                             processed.
+                                                                                -Detention must be requested and approved at the time of the occurrence. Detention in out times must be noted on
+Mileage:                      2292                                              BOL/POD for payment to be used.
+Min Temp:                                                                       Please send all required documents to adminlogistics@crowley.com with only the Order # - Authorization # in the
+                                                                                 subject line (Example: 2542921 - 37922181401TMN)
+Max Temp:                                                                       -All documentation must be received within 24-hours of delivery and be legible.
+                                                                                -Required Documentation includes but it is not limited to POD (Proof of Delivery) and/or BOL (Bill of Lading).
+                                                                                -Lumper Receipts must be submitted within 24 hours or the lumper amount will be deducted from Truck Pay Total.
+                                                                                -Payment will be denied for Accessorial permits receipts not received within 30 days of charge occurrence.
+                                                                                If you need assistance or have not received payment within our agreed terms:
+Auth# >>>                    POD NEEDED                     <<<                 -Email RSMCommPmtStatus@crowley.com Subj: Order # - Authorization # and attach Rate Confirmation Sheet and
+                                                                                supporting documentation.
+                                                                                -Call Payment Status Line @ 904-726-4390
+                                                                                -Note: Payment will not be issued for outstanding/disputed pay details not reported within 60 days of charge occurrence.
+
+
+
+
+                                                                                              1. Live Load
+Company: U-HAUL MOVING & STORAGE OF OLD TOWN                                                                        References:                    CON#: 82574316, OID: CS-401541630,
+                                                                                                                                                   TCN: U-BOX OFFICE 602-760-4927
+                 1402 S 3RD AVE                                                                                     Earliest:                      11/03/20 09:00
+                 YUMA,AZ/ 85364                                                                                     Latest:                        11/03/20 16:00
+                                                                                                                    Equipment:                     UNKNOWN
+82574316                                                                                   STOP COMMENTS
+
+
+
+                                                                                            2. Live Unload
+Company: U-HAUL MOVING & STORAGE AT AIRPORT                                                               References:                              CON#: 82574316, OID: CS-401541630
+         2902 HERSHBERGER RD NW                                                                           Earliest:                                11/17/20 09:00
+         ROANOKE,VA/ 24017                                                                                Latest:                                  11/17/20 16:00
+                                                                                                          Equipment:                               UNKNOWN
+                                                                                           STOP COMMENTS
+82574316
+
+
+
+Visibility Mobile App Instructions
+(Step 1) Driver must provide cellphone number to Crowley Dispatcher.
+(Step 2) Upon receipt of text message, driver must select 1st link to download the app and enable tracking (one-time occurrence).
+(Step 3) Once downloaded, close app and return to text message.
+(Step 4) To access shipment information and start tracking, always refer to the 2nd link located on the text message received prior to arriving at first stop.
+(Step 5) If already onsite and/or performing a drop hook, manual arrival departure times must be made through the Details icon.
+(Step 6) When your load has been delivered, confirm all times are correct per stop, select Shipment Options, and select Complete Shipment.
+(Step 7) If you are picking up where you have just delivered, you must hit Start prior to leaving that location.
+(Step 8) To add equipment information such as Trailer#/Chassis#, select Notes icon in shipment screen; and manually enter using following format: ABCD,1234567 (4 letters and 7 digits with a comma
+in between). Please Note: Trailer # must be added as an individual/separate note entry; it is not to be combined with any additional information.
+**Contact your Crowley dispatch for additional help. If you would like to integrate or use a different tracking method please contact Capacity@crowley.com for more details.**
+
+
+1) All drivers must call for dispatch and check call for the following events: en-route to shipper, arrival at shipper, loaded at shipper, arrival at consignee and departure from consignee. 2) Shipments that
+require more than one day of transit require a check call from driver with location information during transit. 3) All overages, shortages, damages (collectively OSDs) and/or accessorials must be reported
+to Crowley Logistics, Inc. at the time of the occurrence. If OSDs are not reported immediately, the Carrier can be held wholly or partly liable. If Fuel Surcharge is not separately stated, then Flat Rate shall
+be inclusive. 4) Unauthorized delays in delivery shall be charged to Carrier, not to exceed the actual charges assessed against Crowley Logistics, Inc. for which Carriers actions are at fault. A minimum
+charge of $100 shall apply to appointments missed without prior notification from Carrier. Carrier agrees with the above rate confirmation for said movement and any further charges must be called and
+documented with a new rate confirmation to acknowledge acceptance of charges. (Section 5.3 of Broker/MC Agreement). 5) After 2 hours wait time by a driver, detention charges must be pre-authorized
+by Crowley Logistics, Inc. Approval will result in payment of $25 per hour with maximum of $150 per day to the driver. 6) CARRIER IS REMINDED THAT IT IS PROHIBITED FROM SUBCONTRACTING THIS
+LOAD TO ANY OTHER CARRIER OR BROKER WITHOUT FIRST OBTAINING CROWLEY LOGISTICS INCs EXPRESS WRITTEN PERMISSION (Section 5.6 broker/MC agreement). Crowley Logistics, Inc.
+reserves the right to pay the delivering carrier directly and Carrier named below shall remain primarily liable as provided herein. 7) IF SHIPPER’S REQUESTED TEMPERATURE IS DIFFERENT FROM
+TEMPERATURE PROVIDED ABOVE, PLEASE CONTACT CROWLEY PRIOR TO LOADING.
+
+
+
+
+Signature by Carrier                   MUST SIGN AND RETURN TO                             Ryan.Malloy@crowley.com                         BEFORE LOADING.
+
+                                                                                                                                                                                                 Page 1 of 1
+
